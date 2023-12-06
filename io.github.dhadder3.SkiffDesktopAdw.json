@@ -38,7 +38,7 @@
                 {
                     "type" : "git",
                     "url" : "https://github.com/dhadder3/skiffdesktop-adw.git",
-                    "tag" : "0.1.2",
+                    "tag" : "0.1.3",
                     "commit" : "c1afaf92cffd0e7f594de4ada5b199f3f1fa480f"
                 }
             ],
